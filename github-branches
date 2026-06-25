@@ -1,0 +1,7 @@
+git branch
+git branch -a
+
+Example output:
+
+* main
+  bug-fix-typo
